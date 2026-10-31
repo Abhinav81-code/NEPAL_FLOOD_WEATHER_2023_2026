@@ -1,6 +1,4 @@
-# NEPAL_FLOOD_WEATHER_2023_2026
-
-# 🌊 Nepal Flood & Weather Prediction Using Machine Learning
+# 🌊 Nepal Flood & Weather 2023-2026 Prediction Using Machine Learning
 
 ## 📌 Project Overview
 
@@ -211,53 +209,6 @@ Nepal-Flood-Weather-Prediction/
 └── README.md
 ```
 
-*Note: The dataset and output files must be added separately if they are not included in the repository.*
-
-## ⚙️ Installation & Setup
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-```
-
-### Step 2: Navigate to the Project Folder
-
-```bash
-cd YOUR_REPOSITORY_NAME
-```
-
-### Step 3: Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
-```
-
-### Step 4: Add the Dataset
-
-Place the following CSV file in the same directory as the Jupyter Notebook:
-
-```text
-CORRECTED_2023_2026_NEPAL_FLOOD_WEATHER_KAGGLE.csv
-```
-
-### Step 5: Run the Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open `NEPAL_FLOOD_WEATHER_2023_2026.ipynb` and execute all cells from top to bottom.
-
-### Step 6: Access the Results
-
-After successful execution, the notebook automatically creates:
-
-```text
-nepal_flood_outputs/
-```
-
-This folder contains the trained models, prediction results, comparison tables, and processed datasets.
 
 ## ⚠️ Limitations
 
@@ -282,14 +233,4 @@ This folder contains the trained models, prediction results, comparison tables, 
 - Build a web application using Streamlit.
 - Explore station-specific prediction models.
 
-## 👨‍💻 Author
 
-**Abhinav M**
-
-B.Sc. Computer Science | Machine Learning & Data Analytics
-
-GitHub: https://github.com/Abhinav81-code
-
----
-
-⭐ If you find this project useful, consider giving this repository a star!
